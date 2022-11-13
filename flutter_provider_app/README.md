@@ -1,6 +1,7 @@
 # flutterproviderapp
 
 A new Flutter application.
+This is a demo for flutter Provider useage!
 
 ## Getting Started
 
